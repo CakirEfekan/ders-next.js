@@ -9,7 +9,7 @@ function Layout({ children }) {
       </Head>
       <Navigation />
       <main>{children}</main>
-      <footer>design by adem</footer>
+      <footer>design by cakirefekan</footer>
     </div>
   )
 }
