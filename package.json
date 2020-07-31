@@ -1,0 +1,22 @@
+{
+  "name": "ademilter-ders",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "next": "^9.5.1",
+    "react-dom": "^16.13.1",
+    "react": "^16.13.1"
+  },
+  "devDependencies": {
+    "prettier": "^2.0.5"
+  },
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
