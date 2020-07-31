@@ -1,0 +1,1 @@
+_N_E=(window.webpackJsonp_N_E=window.webpackJsonp_N_E||[]).push([[7],{Juyh:function(n,u,t){"use strict";t.r(u);var _=t("q1tI"),a=t.n(_),e=t("CafY"),o=a.a.createElement;u.default=function(){return o("div",null,o(e.a,null,o("h1",null,"Merhaba")))}},rB5V:function(n,u,t){(window.__NEXT_P=window.__NEXT_P||[]).push(["/about",function(){return t("Juyh")}])}},[["rB5V",0,2,1,3]]]);
